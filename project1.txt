@@ -9,3 +9,5 @@ local update
 Server update
 
 server
+local
+
