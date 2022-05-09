@@ -1,5 +1,6 @@
 hiii...I am learning java full stack
-hai... I am interested to learn about git and github
+
+Hello.. I'm really interested to learn about git and gitHub 
 This is the second line
 This is the one more time
 server changes
@@ -11,12 +12,4 @@ Server update
 
 server
 local
-
-
-jeevitha vasu
-
-latha vijaykumar
-
-
-
 
